@@ -1,14 +1,25 @@
-# tanjiro
+
 
 <h1>Tanjiro Webpage</h1>
 <p>The Tanjiro webpage  project is a web-based platform that provides users with a comprehensive collection of anime shows and movies. The platform offers users the ability to browse through different anime categories, search for specific titles, and read detailed descriptions of each anime series.</p>
 
 <h2>Installation requirements ⚗️🧪</h2>
 <ul>
-<li></li>
-<li></li>
-<li></li>
+<li>VSC: https://code.visualstudio.com/download</li>
+<li>GIT: https://git-scm.com/downloads</li>
 </ul>
+
+<h2>✨🚀 Application Initialization✨✨</h2>
+
+<p>Download our repo</p>
+
+```
+git clone: https://github.com/thania2004/registro.git
+
+```
+
+<p>Once inside the file folder, click on go live</p>
+
 
 <h2>⚖️Requirements (StakeHolders)🔬</h2>
 <ul>
@@ -26,11 +37,29 @@
 <img style="display: flex-wrap" align="center"  height="60" width="120" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img style="display: flex-wrap" align="center"  height="60" width="120" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img style="display: flex-wrap" align="center"  height="60" width="120" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img style="display: flex-wrap" align="center"  height="60" width="120" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img style="display: flex-wrap" align="center"  height="60" width="120" alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"/>
+  <img style="display: flex-wrap" align="center"  height="60" width="120" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img style="display: flex-wrap" align="center"  height="60" width="120" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img style="display: flex-wrap" align="center"  height="60" width="120" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img style="display: flex-wrap" align="center"  height="60" width="120" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img style="display: flex-wrap" align="center"  height="60" width="120" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img style="display: flex-wrap" align="center"  height="60" width="120" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img style="display: flex-wrap" align="center"  height="60" width="120" alt="Composer" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white"/>
-<img style="display: flex-wrap" align="center"  height="60" width="120" alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+
 </div>
+
+
+<h2>Long Term Improvements🤝❤️</h2>
+<p>Anime streaming: The application can offer users the ability to stream anime shows and movies directly from the platform.
+
+Watchlist: The application can provide users with the option to create a watchlist of anime shows they want to watch, and receive notifications when new episodes are available.
+
+Recommendations: The application can offer personalized recommendations based on the user's viewing history and preferences.
+
+Reviews and ratings: The application can allow users to rate and review the anime shows they have watched, providing feedback to other users and helping them discover new anime titles.
+
+Social features: The application can integrate social features such as sharing, commenting, and following other users, allowing users to connect and discuss their favorite anime shows.</p>
+
+<h2>Author ✍️</h2>
+<ul>
+  <li><a href="https://github.com/thania2004">@thania2004</a></li>
+</ul>
+
+
