@@ -11,16 +11,24 @@
 
 <h2>✨🚀 Application Initialization✨✨</h2>
 
-<p>Download our repo</p>
+<h3>Download our repo</h3>
 
 ```
 git clone: https://github.com/thania2004/registro.git
 
 ```
 
-<p>Once inside the file folder, click on go live</p>
+<h3>Once inside the file folder, click on go live</h3>
 
-<img  width="895" alt="GoLive" src="">
+<img  width="895" alt="GoLive" src="https://github.com/thania2004/images-github/blob/cd0e54c627a0001017507e4dc02cd2b295f16feb/Captura%20de%20pantalla%202023-03-07%20100409.png">
+
+<h3>Once you click it you should see the following</h3>
+
+<img  width="895" alt="TWP-inicio" src="https://github.com/thania2004/images-github/blob/29331048c87138011752c7b316332e33eeecd82c/TWP-inicio.png">
+<img  width="895" alt="TWP-carousel" src="https://github.com/thania2004/images-github/blob/29331048c87138011752c7b316332e33eeecd82c/TWP-carousel.png">
+<img  width="895" alt="TWP-footer" src="https://github.com/thania2004/images-github/blob/29331048c87138011752c7b316332e33eeecd82c/TWP-footer.png">
+<img  width="895" alt="TWP-NS" src="https://github.com/thania2004/images-github/blob/29331048c87138011752c7b316332e33eeecd82c/TWP-%20NS.png">
+
 
 <h2>⚖️Requirements (StakeHolders)🔬</h2>
 <ul>
