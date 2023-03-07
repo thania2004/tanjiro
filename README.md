@@ -20,6 +20,7 @@ git clone: https://github.com/thania2004/registro.git
 
 <p>Once inside the file folder, click on go live</p>
 
+<img  width="895" alt="GoLive" src="">
 
 <h2>⚖️Requirements (StakeHolders)🔬</h2>
 <ul>
